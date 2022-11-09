@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Scrolling Text</string>
     <string name="article_title">Beatles Anthology Vol.1</string>
-    <string name="article_subtitle">Behind That Locked Door: Beatles Rarities!</string>
+    <string name="article_subtitle">Behind\nThat\nLocked\nDoor:\nBeatles\nRarities!</string>
     <string name="article_text">In a vault deep inside Abbey Road Studios in London — protected by an unmarked, triple-locked, police-alarmed door — are something like 400 hours of unreleased Beatles recordings, starting from June 2, 1962 and ending with the very last tracks recorded for the <i>Let It Be</i> album. The best of the best were released by Apple Records in the form of the 3-volume Anthology series.
         For more information, see the Beatles Time Capsule at www.rockument.com.
 \n\n
